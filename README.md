@@ -7,13 +7,13 @@ It includes two functions.
 
 
 ### Introduce makeCacheMatrix Functions 
-The first function, `makeVector` creates a special "vector", which is
+The first function, `makeCacheMatrix` creates a special "matrix", which is
 really a list containing a function to
 
-1.  set the value of the Matrix
-2.  get the value of the Matrix
-3.  set the value of the inverted matrix
-4.  get the value of the inverted matrix
+1.  set: set the value of the Matrix
+2.  get: the value of the Matrix
+3.  setinverse: set the value of the inverted matrix
+4.  getinverse: get the value of the inverted matrix
 
 
 ### Introduce cacheSolve function: 
