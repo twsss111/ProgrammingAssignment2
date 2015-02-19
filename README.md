@@ -7,8 +7,7 @@ It includes two functions.
 
 
 ### Introduce makeCacheMatrix Functions 
-The first function, `makeCacheMatrix` creates a special "matrix", which is
-really a list containing a function to
+The first function, `makeCacheMatrix` creates a special list containing functions to
 
 1.  set: set the value of the Matrix
 2.  get: the value of the Matrix
